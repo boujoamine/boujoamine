@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 رسوم اضافية:
 ختم الشركة:
 الامضاء
-الرمز الترويجي
+الرمز الترويجي:
